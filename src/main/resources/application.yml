@@ -1,0 +1,4 @@
+paypal:
+  client-id: AeyK6zNUKPvrZkL5W55vodauPPQ7aKR10cfCLEEFQmULObr8JfKZKfzP0r9T8u2VsOPCkFiAohCfrctm
+  client-secret: EBwiS65BsPrzInFKeHPNyfzPfOhbSQ8L9ssxNMWWTjW17z8RH1t5oAKnCZzRM7iGmN1ifcCZcyIE3vHj
+  api-url: https://sandbox.paypal.com
